@@ -6,6 +6,7 @@ format:
   html: default
   pdf: default
 theme: cosmo
+lang: fr
 ---
 
 Les altérations permettent de changer la hauteur d’une note, ce qui permet d’obtenir une note qui n’est pas présente naturellement sur l’harmonica, ou bien d’obtenir un effet consistant à démarrer une note plus bas et relâcher 
@@ -54,9 +55,62 @@ idéale.
 
 1. Prononcez encore le son «keu» mais en aspirant cette fois-ci. Faites toujours attention à ressentir ce qui se passe en bouche.
 
-1. Toujours en aspirant, levez lentement la langue vers la zone K, sans pronocer de son. Normalement, la hauteur de la note change quand
+1. Toujours en aspirant, levez lentement la langue vers la zone K, sans pronocer de son ni toucher le palais. Normalement, la hauteur de la note change quand
    la langue se rapproche du palais.
 
 1. Recommencez l’exercice précédent, en faisant en sorte que les côtés de la langue touchent les molaires : on veut éviter les fuites d’air
    pour que la pression de l’air puisse augmenter.
+:::
+
+::: {.callout-note collapse=true}
+## Exercice 3 - avec harmonica
+
+On reprend les exercices précédents mais avec l'harmonica en bouche cette fois-ci !
+
+1. Aspirer dans le canal 4 normalement, et amener lentement la langue dans la zone K (sans toucher le palais). Si tout se passe bien,
+   la hauteur de la note descend : la note naturelle est un Ré, et on peut descendre la note d'un demi-ton pour l'amener sur un Ré bémol.[^1][^2]
+
+  [^1]: En cas de problème, on peut aussi prononcer (sans émettre de son) les onomatopées "Hii" et "Hou", quand on passe de "Hii" à "Hou", la
+        langue vient se placer en arrière, dans la zone K.
+
+  [^2]: En dernier recours, essayer de respirer comme Dark Vador !
+    
+1. Recommencer mais avec le canal 6 pour descendre d'un demi-ton le La.
+
+
+![](../../_partitions/exercice_3.png)
+:::
+
+
+
+# Utilisation
+
+On peut utiliser les altérations pour obtenir les notes manquantes de l'harmonica (c'est difficile) ou pour mettre des notes en évidence
+à l'aide d'un effet que j'appelle ici *inflexion*.
+
+## Inflexions
+
+Cet effet consiste à démarrer une note (par exemple un Ré) un demi-ton dessous (plus ou moins) et relacher immédiatement cette altération.
+Les exercices suivants vont permettre de travailler cette technique.
+
+::: {.callout-note collapse=true}
+## Exercice 4
+
+1. Aspirez dans le canal 4 de l'harmonica, altérez la note, et arrêtez d'aspirer sans bouger la langue.
+1. Aspirez de nouveau, la langue n'ayant pas bougé. On doit alors entendre la note altérée, puis relachez l'altération pour entendre de nouveau
+   la note naturelle.
+1. Recommencez avec le canal 6.
+
+![](../../_partitions/exercice_4.png)
+:::
+
+L'inflexion consistant à partir de la note altérée, il est important de trouver l'altération directement sans passer par la note naturelle.
+
+::: {.callout-note collapse=true}
+## Exercice 5
+
+1. Infléchir le 4 aspiré : démarrez par l'altération du canal 4 aspiré et relâchez l'altération immédiatement.
+1. Infléchir le 6 aspiré.
+
+![](../../_partitions/exercice_5.png)
 :::
