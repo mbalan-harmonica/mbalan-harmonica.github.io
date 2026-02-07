@@ -1,0 +1,62 @@
+---
+title: Altérations
+categories: [technique]
+date: 2026-02-07
+format:
+  html: default
+  pdf: default
+theme: cosmo
+---
+
+Les altérations permettent de changer la hauteur d’une note, ce qui permet d’obtenir une note qui n’est pas présente naturellement sur l’harmonica, ou bien d’obtenir un effet consistant à démarrer une note plus bas et relâcher 
+immédiatement l’altération pour entendre la note prévue. Sauf mention du contraire, les explications données ici concernent l’harmonica diatonique (blues) 10 trous accordage Richter.
+
+Dans cet article, je présente d’abord une technique permettant l’obtention des altérations, puis je donne des exemples d’utilisation, et enfin je donne quelques informations sur les altérations pour d’autres types d’harmonica 
+(diatonique avec un accordage alternatif, diatonique semi-valvé, chromatique, tremolo ou octave).
+
+# La technique d’altération
+
+Le principe des altérations est de modifier la pression de l’air dans l’harmonica afin de faire vibrer plus rapidement l’anche opposée au sens de respiration. En effet, prenons par exemple un harmonica en C. Une aspiration normale
+dans le canal 4 produit la note Ré, alors que souffler normalement dans le canal 4 produit un Do. Si on altère (j’explique la technique juste après) en aspirant, ce n’est plus l’anche de Ré qui vibre, mais celle de Do (alors qu’on aspire)
+qui vibre plus rapidement, produisant une note plus aigüe que le Do (mais plus grave que le Ré). En revanche la technique d’altération utilisée alors qu’on souffle dans le canal 4 va faire vibrer plus rapidement l’anche de Ré
+(alors qu’elle est déclenchée normalement en aspirant) produisant une note plus aigüe que le Ré (Ré dièse ou mi bémol).
+
+::: {.callout-note collapse=true}
+## Exercice 1
+
+Il est important de comprendre qu’une mauvaise posture peut vous empêcher de réussir les altérations : il est bien sûr possible
+de compenser une mauvaise posture, mais cette situation n’est pas idéale, autant mettre toutes les chances de son côté.
+
+Jouer quelques notes naturelles, dont le 4 aspiré et le 6 aspiré, en faisant attention à :
+
+- se tenir droit, le menton haut ; imaginez un tuyau d’arrosage : s’il est plié, il y a moins de pression ! On peut trouver le bon angle
+  en se tenant debout contre un mur, jambes écartées (de la largeur des épaules), on fléchit les jambes et on colle l’arrière du crâne contre
+  le mur ;
+- ce que l’harmonica repose sur la partie humide des lèvres, les lèvres sont relachées - c’est ce qui va permettre l’étanchéité ; on peut le
+  vérifier en faisant bouger la lèvre inférieure avec l’index, vous verrez tout de suite si vos lèvres sont trop tendues ;
+- ne pas respirer avec le nez en même temps que l’on joue ; bien sûr il est possible de jouer des notes naturelles avec le nez
+  et c’est même conseillé lorsqu’on a les poumons pleins ou vides, mais vous n’aurez pas d’altération en jouant avec le nez.
+:::
+
+
+On en vient à la technique d’altération. Imaginez un tuyau d’arrosage : pour augmenter la pression du jet d’eau, on n’ouvre pas
+plus le robinet, il suffit en fait de réduire l’orifice de sortie du jet d’eau. C’est la même chose pour l’harmonica : nous allons
+réduire le passage de l’air en montant la langue vers le palais. L’exercice suivant va vous aider à trouver la position de langue
+idéale.
+
+::: {.callout-note collapse=true}
+## Exercice 2 - sans harmonica
+
+1. Prononcez le son «keu» : normalement, votre langue vient heurter le palais pour produire ce son. Recommencez jusqu’à ce que vous
+   visualisiez la partie de la langue et la partie du palais qui se touchent. Normalement il s’agit du milieu de la langue, qui vient
+   toucher la partie dure du palais (mais pas loin de la partie molle). J’appellerai dans la suite de l’article cette zone du palais
+   la zone K.
+
+1. Prononcez encore le son «keu» mais en aspirant cette fois-ci. Faites toujours attention à ressentir ce qui se passe en bouche.
+
+1. Toujours en aspirant, levez lentement la langue vers la zone K, sans pronocer de son. Normalement, la hauteur de la note change quand
+   la langue se rapproche du palais.
+
+1. Recommencez l’exercice précédent, en faisant en sorte que les côtés de la langue touchent les molaires : on veut éviter les fuites d’air
+   pour que la pression de l’air puisse augmenter.
+:::
