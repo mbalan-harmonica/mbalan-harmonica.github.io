@@ -1,0 +1,111 @@
+---
+title: Positions
+date: 2026-02-08
+format:
+  html:
+    toc: true
+categories: [diatonique, théorie]
+image: cercle_quintes.png
+---
+
+Les harmonicas diatoniques sont associés à une gamme particulière :
+
+- un harmonica en C permet de jouer la gamme de do majeur ;
+- un harmonica en G permet de jouer la gamme de sol majeur ;
+- le pentaharp en A de Hohner permet de jouer la gamme blues de la ;
+- certaines proposent aussi des harmonicas mineurs, qui permettent de jouer une gamme mineure harmonique ou naturelle.
+
+Même si un morceau est écrit en Sol majeur, rien n'oblige d'utiliser un harmonica en Do majeur. On peut très bien utiliser un harmonica
+en Fa majeur (jeu en seconde position) ou en Ré (jeu en douzième position) par exemple. Le concept de position relie la tonalité de
+l'harmonica à la tonalité du morceau. Chaque position a ses difficultés, et ses avantages ([inflexions](../alterations/altérations.qmd#utilisation)
+ou accord).
+
+
+Pour bien comprendre tous les enjeux, il est nécessaire d'approfondir un peu la théorie (cercle des quintes, gammes et modes…).
+
+
+
+# Notes de résolution, de tension et de passage
+
+Ce qu'il faut comprendre, c'est que toutes les notes d'un morceau ont une fonction. Dans un morceau en Sol majeur, la note de Sol est la
+note de **résolution** : elle termine les phrases. Le musicien peut s'arrêter sur cette note. À l'inverse, la note de Ré crée une **tension**,
+cette tension appelle une résolution. D'autres notes ne servent elles qu'à passer de la tension à la résolution ou l'inverse. Il y a donc des
+notes à mettre en valeurs, et d'autres qui doivent jouer normalement.
+
+Dans un morceau en Sol majeur, les notes à mettre en valeurs sont *a priori* le sol, le si et le ré (ces notes forment l'accord de sol
+majeur).
+
+
+# La première position
+
+Jouer en première position consiste à utiliser un harmonica de la même tonalité que le morceau. J'explique plus loin comment reconnaître
+la tonalité d'un morceau. On suppose ici que l'on veut jouer un morceau en Sol majeur. Pour jouer ce morceau en première position, il faut
+utiliser un harmonica en Sol (G).
+
+Pour mettre en valeur une note, on peut l'infléchir, ce qui signifie ici qu'il faut altérer les notes sol, si et ré si possible.  Sur l'harmonica
+en G accordé Richter, il s'agit des notes soufflées. Or, les notes soufflées altérables sont en 7, 8, 9 et 10, ce qui oblige l'harmoniciste
+à jouer dans les aigus. De plus, dans le registre grave, il manque deux notes de la gamme de sol majeur (le do et le mi) mais il n'en manque
+qu'une dans le registre aigu (le fa dièse).
+
+:::{.callout-note}
+## Amazing Grace en première position
+
+La tablature ci-dessous permet de jouer Amazing Grace en première position. Essayez d'infléchir les 7,8 et 9 soufflés, par exemple ceux
+marqués en rouge dans la tablature.
+
+![](amazing_first.png){.lightbox}
+:::
+
+Une autre possiblité pour mettre en valeurs des notes est le *tongue slap* ou l'auto-accompagnement. 
+
+# La seconde position
+
+On souhaite toujours jouer un morceau en Sol majeur. Cette fois, au lieu d'utiliser un harmonica en G, on va jouer avec un harmonica en C.
+Il s'agit toujours de mettre en valeur les notes sol, si et ré. Cette fois, on les trouve en 2, 3 et 4 aspiré, qui sont des notes altérables.
+L'harmoniciste jouera cette fois dans le registre grave de l'harmonica. Dans ce registre, il manque 2 notes (le la et le fa dièse), ce qui
+peut demander des altérations justes. Dans le registre médium, le fa dièse pose plus de difficulté, on l'obtient par un overblow.
+
+:::{.callout-note}
+## Amazing Grace en seconde position
+
+La tablature ci-dessous permet de jouer Amazing Grace en seconde position. Essayez d'infléchir les 1,2,3 et 4 aspirés.
+
+![](amazing_second.png){.lightbox}
+:::
+
+On peut éviter l'overblow 5 en changeant d'octave, comme dans l'exercice suivant.
+
+:::{.callout-note}
+## Douce nuit en seconde position
+
+![](silent_night.png){.lightbox}
+:::
+
+La seconde position est particulièrement utilisée en Blues. La gamme de Sol blues peut être jouée comme dans l'exercice ci-dessous.
+
+:::{.callout-note}
+## Gamme blues en seconde position
+
+![](blues_scale.png){.lightbox}
+:::
+
+## La troisième position
+
+Il s'agit d'une position qui est plus adaptée pour jouer un morceau mineur (ou dorien). Par exemple, la troisième position permet avec
+un harmonica en G de jouer un morceau en la mineur. Cette fois en la mineur, les notes importantes sont la, do et mi. On peut les
+infléchir en jouant -4, -5 et -6. Par contre, si le morceau est en la mineur naturel, le fa dièse doit être remplacé par un fa, il faut
+donc remplacer -3 par -3', -7 par 6o.
+
+:::{.callout-note}
+## Bella Ciao en troisième position
+
+:::
+
+## La quatrième position
+
+En quatrième position, on utilisera un harmonica en C pour jouer en la mineur. Les notes à infléchir sont -6, 7 et 8.
+
+::: {.callout-note}
+## Bella Ciao en quatrième position
+
+:::

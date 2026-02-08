@@ -77,7 +77,7 @@ On reprend les exercices précédents mais avec l'harmonica en bouche cette fois
 1. Recommencer mais avec le canal 6 pour descendre d'un demi-ton le La.
 
 
-![](../../_partitions/exercice_3.png)
+![](../../_partitions/exercice_3.png){.lightbox height=100}
 :::
 
 
@@ -100,7 +100,7 @@ Les exercices suivants vont permettre de travailler cette technique.
    la note naturelle.
 1. Recommencez avec le canal 6.
 
-![](../../_partitions/exercice_4.png)
+![](../../_partitions/exercice_4.png){.lightbox height=100}
 :::
 
 L'inflexion consistant à partir de la note altérée, il est important de trouver l'altération directement sans passer par la note naturelle.
@@ -111,7 +111,7 @@ L'inflexion consistant à partir de la note altérée, il est important de trouv
 1. Infléchir le 4 aspiré : démarrez par l'altération du canal 4 aspiré et relâchez l'altération immédiatement.
 1. Infléchir le 6 aspiré.
 
-![](../../_partitions/exercice_5.png)
+![](../../_partitions/exercice_5.png){.lightbox height=100}
 :::
 
 
@@ -121,7 +121,7 @@ Cet effet d'inflexion est particulièrement en Blues. L'exercice suivant est un 
 ## Exercice 6 - application
 Jouez la partition ci-dessous : plus les inflexions seront prononcées et plus le rendu sonnera bluesy.
 
-![](../../_partitions/exercice_6.png)
+![](../../_partitions/exercice_6.png){.lightbox height=100}
 :::
 
 
@@ -192,8 +192,146 @@ En menant la langue dans la zone K, il est possible d'altérer en aspirant :
 
 soit 4 nouvelles notes ! Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
-![](../../_partitions/exercice_8.png)
+![](../../_partitions/exercice_8.png){.lightbox height=100}
 :::
   
 
+:::{.callout-note}
+## Position moyenne
 
+En reculant la langue suffisamment loin vers la gorge, il est possible d'altérer en aspirant :
+
+- le canal 1 pour obtenir un ré bémol ;
+- le canal 2 pour obtenir un fa ;
+- le canal 3 pour obtenir un la bémol ;
+
+soit 3 nouvelles notes ! Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
+
+![](../../_partitions/exercice_9.png){.lightbox height=100}
+:::
+ 
+:::{.callout-note}
+## Position avancée
+
+En avançant la langue vers les dents, il est possible d'altérer :
+
+- en aspirant le canal 3 pour obtenir un si bémol ;
+- en soufflant le canal 10 pour obtenir un si ;
+
+Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
+
+![](../../_partitions/exercice_10.png){.lightbox height=150}
+:::
+ 
+:::{.callout-note}
+## Position très avancée
+
+En avançant la langue vers les dents encore plus en avant, il est possible d'altérer en soufflant :
+
+- le canal 8 pour obtenir un mi bémol ;
+- le canal 9 pour obtenir un sol bémol ;
+- le canal 10 pour obtenir un si bémol ;
+
+Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
+
+![](../../_partitions/exercice_11.png){.lightbox height=150}
+:::
+ 
+
+# Autres types d'harmonica
+
+## Diatonique : overbends
+
+Comme vu au début de cet article, la technique d'altération fait en réalité vibrer plus rapidement l'anche opposée au sens de respiration.
+Il est ainsi possible de produire une note plus aigüe que la note naturelle que l'on altère. Pour cela, il faut placer la langue dans la
+même position que pour le bend le plus important (en terme de demi-tons) dans le canal correspondant.
+
+Par exemple, dans le canal 3, le bend le plus profond est celui qui permet de passer du si au la bémol, le placement de langue correspondant
+est celui où la langue est très en arrière. En gardant la langue dans cette position mais en soufflant, on produit un si dièse, donc un do.
+
+:::{.callout-warning}
+## Overbends
+
+Les overblows (obtenus en soufflant) et les overdraws (en aspirant) nécessitent un bon contrôle et une position de langue précise. Inutile
+de les essayer tant que les bends classiques ne sont pas maitrisés. Un harmonica bien réglé permettra de les obtenir plus facilement.
+Une possibilité d'entrainement consiste à retirer les capots, et bloquer l'anche supérieure pour les overblows, l'anche inférieure pour les
+overdraws : dans ce cas la note naturelle ne s'entendra pas, mais si on entend un son en déplaçant la langue, c'est qu'on a déclenché l'overbend.
+
+
+
+ 
+1. Souffler dans le canal 4, puis placer la langue dans la zone K pour produire un ré dièse (mi bémol).
+1. Souffler dans le canal 5, puis placer la langue dans la zone K pour produire un fa dièse.
+1. Souffler dans le canal 6, puis placer la langue dans la zone K pour produire un la dièse (si bémol).
+1. Souffler dans le canal 1, puis placer la langue en arrière pour produire un ré dièse (mi bémol).
+1. Aspirer dans le canal 7, puis placer la langue en avant pour produire un ré bémol (do dièse).
+1. Aspirer dans le canal 9, puis placer la langue en avant pour produire un sol dièse (la bémol).
+1. Aspirer dans le canal 10, puis placer la langue en avant pour produire un do dièse (ré bémol).
+
+
+![](../../_partitions/exercice_12.png){.lightbox}
+:::
+
+Les techniques de bends et d'overbends permettent en théorie de jouer la gamme chromatique dans les trois registres de l'harmonica.
+
+:::{.callout-important}
+## Gamme chromatique
+![](../../_partitions/exercice_13.png){.lightbox}
+:::
+
+## Diatoniques semi-valvés
+
+Les harmonicas semi-valvés sont équippés de valves : ce sont des languettes (plastique ou papier) qui au départ servent à assurer une
+meilleure étanchéité. En effet, quand on souffle par exemple dans un canal, la moitié de l'air fait vibrer une anche, l'autre moitié
+s'échappe de l'harmonica sans faire vibrer d'anche. Pour les harmonicas chromatiques c'est particulièrement embêtant car il y a déjà
+une perte d'air à cause de la tirette. Les valves vont se plaquer contre les anches, la totalité de l'air est donc dirigée vers
+l'anche qui doit vibrer. On peut aussi retrouver des valves sur des diatoniques accordés Low (c'est-à-dire une octave en
+dessous des tonalités usuelles). Les harmonicas semi-valvés eux possèdent une valve par canal (il n'y a donc qu'une anche sur les deux
+qui est concernée par la valve, d'où le terme «semi-valvé»).
+
+Les overbends ne sont plus possibles sur ce type d'harmonica : prenons par exemple le canal 5.
+
+- Sur un diatonique Richter non semi-valvé en C, l'anche soufflée donne un mi, celle aspirée un fa. Lorsqu'on déclenche l'overblow dans
+  ce canal, l'anche soufflée s'arrête et l'anche aspirée se met à vibrer plus rapidement produisant un fa dièse.
+- Sur un diatonique Richter semi-valvé en C, quand on souffle dans le canal 5, la valve vient bloquer l'anche aspirée, et de ce fait la
+  technique d'altération ne peut plus faire vibrer cette anche (elle est isolée du flux d'air). Par contre, l'anche soufflée se met à
+  ralentir, produisant un son plus grave : un mi bémol.
+
+Sur un harmonica semi-valvé, toutes les notes, soufflées ou altérées, sont altérables : on peut baisser leur hauteur d'un ou plusieurs
+demi-tons. Comme on peut infléchir toutes les notes, il devient par exemple possible de jouer en première position tout en mettant en
+valeur par une inflexion les notes soufflées sans aller dans les aigus. 
+
+
+
+
+
+
+Il est aussi possible d'obtenir la gamme chromatique.
+
+:::{.callout-important}
+## Gamme chromatique
+![](../../_partitions/exercice_14.png){.lightbox}
+:::
+
+## Harmonica chromatique
+
+Comme pour les harmonicas semi-valvés, les harmonicas chromatiques sont équippés de valves, mais cette fois c'est toutes les anches qui
+en sont munies. Les bends et overbends ne sont plus possibles, mais les inflexions restent faisables (exactement comme avec les harmonicas
+semi-valvés).
+
+
+## Tremolo ou octave
+
+On entend souvent qu'il est impossible d'altérer les notes sur un harmonica tremolo. C'est une simplification erronée ! Il est vrai que
+si on essaie d'altérer les deux notes d'un même canal on obtient un résultat aléatoire, qui est dû au fait que les anches correspondantes
+ne produisent pas la même note. Par contre, si on isole la rangée du haut (ou celle du bas), et qu'on a en bouche deux canaux adjacents,
+il devient possible d'altérer selon toujours le même principe : l'anche jouée ralentit jusqu'à s'arrêter tandis que l'anche opposée se
+met à vibrer plus rapidement. De ce fait, il y a même plus de notes obtenues par un bend, et les overbends sont eux aussi possibles. Par
+contre on perd le son typique du tremolo (ou octave).
+
+Dans l'exercice ci-dessous, on passe du son du tremolo à celui d'un diatonique, mais l'harmonica n'a pas changé : on isole seulement la
+rangée du haut pour obtenir la note manquante pour jouer le morceau.
+
+:::{.callout-warning}
+## Greensleaves
+:::
