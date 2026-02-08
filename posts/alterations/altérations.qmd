@@ -3,10 +3,9 @@ title: Altérations
 categories: [technique]
 date: 2026-02-07
 format:
-  html: default
+  html:
+    toc: true
   pdf: default
-theme: cosmo
-lang: fr
 ---
 
 Les altérations permettent de changer la hauteur d’une note, ce qui permet d’obtenir une note qui n’est pas présente naturellement sur l’harmonica, ou bien d’obtenir un effet consistant à démarrer une note plus bas et relâcher 
@@ -22,7 +21,7 @@ dans le canal 4 produit la note Ré, alors que souffler normalement dans le cana
 qui vibre plus rapidement, produisant une note plus aigüe que le Do (mais plus grave que le Ré). En revanche la technique d’altération utilisée alors qu’on souffle dans le canal 4 va faire vibrer plus rapidement l’anche de Ré
 (alors qu’elle est déclenchée normalement en aspirant) produisant une note plus aigüe que le Ré (Ré dièse ou mi bémol).
 
-::: {.callout-note collapse=true}
+::: {.callout-note }
 ## Exercice 1
 
 Il est important de comprendre qu’une mauvaise posture peut vous empêcher de réussir les altérations : il est bien sûr possible
@@ -45,7 +44,7 @@ plus le robinet, il suffit en fait de réduire l’orifice de sortie du jet d’
 réduire le passage de l’air en montant la langue vers le palais. L’exercice suivant va vous aider à trouver la position de langue
 idéale.
 
-::: {.callout-note collapse=true}
+::: {.callout-note }
 ## Exercice 2 - sans harmonica
 
 1. Prononcez le son «keu» : normalement, votre langue vient heurter le palais pour produire ce son. Recommencez jusqu’à ce que vous
@@ -62,7 +61,7 @@ idéale.
    pour que la pression de l’air puisse augmenter.
 :::
 
-::: {.callout-note collapse=true}
+::: {.callout-note }
 ## Exercice 3 - avec harmonica
 
 On reprend les exercices précédents mais avec l'harmonica en bouche cette fois-ci !
@@ -93,7 +92,7 @@ On peut utiliser les altérations pour obtenir les notes manquantes de l'harmoni
 Cet effet consiste à démarrer une note (par exemple un Ré) un demi-ton dessous (plus ou moins) et relacher immédiatement cette altération.
 Les exercices suivants vont permettre de travailler cette technique.
 
-::: {.callout-note collapse=true}
+::: {.callout-note }
 ## Exercice 4
 
 1. Aspirez dans le canal 4 de l'harmonica, altérez la note, et arrêtez d'aspirer sans bouger la langue.
@@ -106,7 +105,7 @@ Les exercices suivants vont permettre de travailler cette technique.
 
 L'inflexion consistant à partir de la note altérée, il est important de trouver l'altération directement sans passer par la note naturelle.
 
-::: {.callout-note collapse=true}
+::: {.callout-note }
 ## Exercice 5
 
 1. Infléchir le 4 aspiré : démarrez par l'altération du canal 4 aspiré et relâchez l'altération immédiatement.
@@ -114,3 +113,87 @@ L'inflexion consistant à partir de la note altérée, il est important de trouv
 
 ![](../../_partitions/exercice_5.png)
 :::
+
+
+Cet effet d'inflexion est particulièrement en Blues. L'exercice suivant est un morceau d'application.
+
+::: {.callout-note }
+## Exercice 6 - application
+Jouez la partition ci-dessous : plus les inflexions seront prononcées et plus le rendu sonnera bluesy.
+
+![](../../_partitions/exercice_6.png)
+:::
+
+
+## Notes manquantes
+
+
+Les altérations peuvent être utilisées pour jouer des notes qui ne sont pas présentes naturellement sur l'harmonica. On peut alors distinguer
+deux types d'altérations :
+
+- les *bends*, qui descendent la hauteur d'une note d'un ou plusieurs demi-tons ;
+- les *overbends*, qui montent la hauteur d'une note d'un ou plusieurs demi-tons.
+
+La technique pour les overbends est la même que pour les bends, mais elle demande plus de précision : les bends se déclenchent plutôt facilement
+une fois qu'on a compris qu'il suffit de bloquer le passage de l'air avec la langue mais les overbends demandent un contrôle plus important et
+aussi un harmonica bien réglé. Je détaille dans ce paragraphe les notes obtenues par les bends.
+
+Ce qui change par rapport à l'altération du canal 4 aspiré est la position de la langue, qui peut être placée plus vers l'arrière (vers la gorge)
+ou vers l'avant (vers les dents). On peut distinguer 4 positions au total pour avoir tous les bends. Avant de s'y intéresser, voici un exercice
+sans l'harmonica pour prendre conscience de la position de la langue.
+
+:::{.callout-note }
+## Exercice 7 - sans harmonica
+
+1. Placez la langue au niveau de la zone K en aspirant, sans harmonica.
+1. Reculez la langue (en la laissant proche du palais) vers la gorge : normalement le son se fait plus grave.
+1. Avancez la langue (en la laissant proche du palais) vers les dents : le son se fait plus aigu.
+1. Recommencez l'exercice jusqu'à se sentir à l'aise avec le déplacement de la langue.
+:::
+
+Pour savoir les notes que l'on peut obtenir avec un bend, il faut connaitre l'écart entre la note la plus grave et la note la plus aigüe
+produite sur un même canal : toutes les notes intermédiaires entre ces deux notes peuvent être obtenues avec un bend. Ainsi
+
+- dans le canal 1, la note grave est un do (en soufflant) et la note aigüe est un ré (en aspirant), il est donc possible d'obtenir un ré bémol
+  (ou do dièse) en altérant la note aspirée ;
+- dans le canal 2, la note grave est un mi (en soufflant) et la note aigüe est un sol (en aspirant), il est donc possible d'obtenir un fa dièse
+  (sol bémol) et un fa en altérant la note aspirée ;
+- dans le canal 3, la note grave est un sol (en soufflant) et la note aigüe est un si (en aspirant), il est donc possible d'obtenir un si bémol
+  (la dièse), un la et un la bémol (sol dièse) en altérant la note aspirée ;
+- dans le canal 4, la note grave est un do (en soufflant) et la note aigüe est un ré (en aspirant), il est donc possible d'obtenir un ré bémol
+  (do dièse) ;
+- dans le canal 5, la note grave est un mi (en soufflant) et la note aigüe est un fa (en aspirant), ces deux notes sont séparées d'un demi-ton
+  seulement, on peut donc descendre le fa d'un quart de ton, ce qui n'est pas une note dans le solfège occidental, on utilisera donc cette altération
+  en tant qu'inflexion seulement ;
+- dans le canal 6, la note grave est un sol (en soufflant) et la note aigüe est un la (en aspirant), il est donc possible d'obtenir un la bémol
+  (sol dièse) ;
+- dans le canal 7, la note grave est un si (en aspirant) et la note aigüe est un do (en soufflant), de nouveau seul un demi-ton sépare ces deux notes,
+  on n'obtiendra donc pas de nouvelle note via un bend ;
+- dans le canal 8, la note grave est un ré (en aspirant) et la note aigüe est un mi (en soufflant), il est donc possible d'obtenir un mi bémol
+  (ré dièse) en altérant la note soufflée ;
+- dans le canal 9, la note grave est un fa (en aspirant) et la note aigüe est un sol (en soufflant), il est donc possible d'obtenir un sol bémol
+  (fa dièse) en altérant la note soufflée ;
+- dans le canal 10, la note grave est un la (en aspirant) et la note aigüe est un do (en soufflant), il est donc possible d'obtenir un si et un
+  si bémol (la dièse) en altérant la note soufflée.
+
+En résumé, les altérations aspirées des canaux 1 à 6 permettent d'obtenir 8 notes, et les altérations soufflées des canaux 7 à 10 permettent d'obtenir
+4 notes. On peut donc enrichir les 19 notes naturellement présentes sur l'harmonica diatonique de 12 notes altérées. Dans le regitre grave, le chromatisme
+est presque complet, il manque seulement une note : le ré dièse.
+
+:::{.callout-note}
+## Position moyenne
+
+En menant la langue dans la zone K, il est possible d'altérer en aspirant :
+
+- le canal 2 pour obtenir un fa dièse ;
+- le canal 3 pour obtenir un la ;
+- le canal 4 pour obtenir un ré bémol ;
+- le canal 6 pour obtenir un la bémol
+
+soit 4 nouvelles notes ! Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
+
+![](../../_partitions/exercice_8.png)
+:::
+  
+
+
