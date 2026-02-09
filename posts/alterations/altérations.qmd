@@ -80,7 +80,7 @@ On reprend les exercices précédents mais avec l'harmonica en bouche cette fois
 1. Recommencer mais avec le canal 6 pour descendre d'un demi-ton le La.
 
 
-![](../../_partitions/exercice_3.png){.lightbox height=100}
+![](exercice_3.png){.lightbox height=100}
 
 
 ::::{.content-visible when-format="html"}
@@ -109,7 +109,7 @@ Les exercices suivants vont permettre de travailler cette technique.
    la note naturelle.
 1. Recommencez avec le canal 6.
 
-![](../../_partitions/exercice_4.png){.lightbox height=100}
+![](exercice_4.png){.lightbox height=100}
 
 ::::{.content-visible when-format="html"}
 {{< audio file="audio/exo4.wav" >}}
@@ -125,7 +125,7 @@ L'inflexion consistant à partir de la note altérée, il est important de trouv
 1. Infléchir le 4 aspiré : démarrez par l'altération du canal 4 aspiré et relâchez l'altération immédiatement.
 1. Infléchir le 6 aspiré.
 
-![](../../_partitions/exercice_5.png){.lightbox height=100}
+![](exercice_5.png){.lightbox height=100}
 
 ::::{.content-visible when-format="html"}
 {{< audio file="audio/exo5.wav" >}}
@@ -140,7 +140,7 @@ Cet effet d'inflexion est particulièrement en Blues. L'exercice suivant est un 
 ## Exercice 6 - application
 Jouez la partition ci-dessous : plus les inflexions seront prononcées et plus le rendu sonnera bluesy.
 
-![](../../_partitions/exercice_6.png){.lightbox height=100}
+![](exercice_6.png){.lightbox height=100}
 
 ::::{.content-visible when-format="html"}
 {{< audio file="audio/exo6.wav" >}}
@@ -215,7 +215,7 @@ En menant la langue dans la zone K, il est possible d'altérer en aspirant :
 
 soit 4 nouvelles notes ! Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
-![](../../_partitions/exercice_8.png){.lightbox height=100}
+![](exercice_8.png){.lightbox height=100}
 
 ::::{.content-visible when-format="html"}
 {{< audio file="audio/exo8.wav" >}}
@@ -235,7 +235,7 @@ En reculant la langue suffisamment loin vers la gorge, il est possible d'altére
 
 soit 3 nouvelles notes ! Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
-![](../../_partitions/exercice_9.png){.lightbox height=100}
+![](exercice_9.png){.lightbox height=100}
 
 ::::{.content-visible when-format="html"}
 {{< audio file="audio/exo9.wav" >}}
@@ -253,7 +253,7 @@ En avançant la langue vers les dents, il est possible d'altérer :
 
 Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
-![](../../_partitions/exercice_10.png){.lightbox height=150}
+![](exercice_10.png){.lightbox height=150}
 
 ::::{.content-visible when-format="html"}
 {{< audio file="audio/exo10.wav" >}}
@@ -272,7 +272,7 @@ En avançant la langue vers les dents encore plus en avant, il est possible d'al
 
 Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
-![](../../_partitions/exercice_11.png){.lightbox height=150}
+![](exercice_11.png){.lightbox height=150}
 
 ::::{.content-visible when-format="html"}
 {{< audio file="audio/exo11.wav" >}}
@@ -312,14 +312,14 @@ overdraws : dans ce cas la note naturelle ne s'entendra pas, mais si on entend u
 1. Aspirer dans le canal 10, puis placer la langue en avant pour produire un do dièse (ré bémol).
 
 
-![](../../_partitions/exercice_12.png){.lightbox}
+![](exercice_12.png){.lightbox}
 :::
 
 Les techniques de bends et d'overbends permettent en théorie de jouer la gamme chromatique dans les trois registres de l'harmonica.
 
 :::{.callout-important}
 ## Gamme chromatique
-![](../../_partitions/exercice_13.png){.lightbox}
+![](exercice_13.png){.lightbox}
 :::
 
 ## Diatoniques semi-valvés
@@ -353,7 +353,7 @@ Il est aussi possible d'obtenir la gamme chromatique.
 
 :::{.callout-important}
 ## Gamme chromatique
-![](../../_partitions/exercice_14.png){.lightbox}
+![](exercice_14.png){.lightbox}
 :::
 
 ## Harmonica chromatique
@@ -372,9 +372,13 @@ il devient possible d'altérer selon toujours le même principe : l'anche jouée
 met à vibrer plus rapidement. De ce fait, il y a même plus de notes obtenues par un bend, et les overbends sont eux aussi possibles. Par
 contre on perd le son typique du tremolo (ou octave).
 
-Dans l'exercice ci-dessous, on passe du son du tremolo à celui d'un diatonique, mais l'harmonica n'a pas changé : on isole seulement la
-rangée du haut pour obtenir la note manquante pour jouer le morceau.
 
 :::{.callout-warning}
 ## Greensleaves
+
+Dans cet exercice, on passe du son du tremolo à celui d'un diatonique, mais l'harmonica n'a pas changé : on isole seulement la
+rangée du haut pour obtenir la note manquante pour jouer le morceau. Le morceau est en mi dorien, l'harmonica utilisé est un trémolo
+en Ré majeur (Low D).
+
+![](greensleaves_tremolo.png){.lightbox}
 :::

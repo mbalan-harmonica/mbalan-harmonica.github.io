@@ -1,10 +1,23 @@
 \version "2.24.4"
 
-\relative c'' {
+melody = \relative c'' {
   \repeat volta 2 {
-a'4_"-6" aes8_"-6'" d,_"-4"~ d2 | 
-g8_"6" f_"-5" d_"-4" c_"4" d4_"-4" r |
+a'4 aes8 d,~ d2 | 
+g8 f d c d4 r |
 }
-g8_"6" c,_"4" ~ c4 d8_"-4" des_"-4'" g,4_"-2" |
-c4_"4" c8_"4" d_"-4"~ d2 |
+g8 c, ~ c4 d8 des g,4 |
+c4 c8 d ~ d2 |
+}
+
+verse = \lyricmode {
+"-6" "-6'" "-4" | "6" "-5" "-4" "4" "-4" | "6" "4" "-4" "-4'" "-2" "4" "4" "-4"
+}
+
+\score {
+  <<
+    \new Staff { \melody }
+    \addlyrics { \verse }
+  >>
+  \layout { }
+  \midi { }
 }

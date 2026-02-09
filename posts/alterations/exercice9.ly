@@ -1,7 +1,20 @@
 \version "2.24.4"
 
 
-\relative c' {
-d2_"-1" (des_"-1'") |
-g2_"-2" (f_"-2''") | b_"-3" (a_"-3'''") |
+melody = \relative c' {
+d2 des |
+g2 f | b a |
+}
+
+verse = \lyricmode {
+"-1" "-1'" "-2" "-2''" "-3" "-3'''"
+}
+
+\score {
+  <<
+    \new Staff { \melody }
+    \addlyrics { \verse }
+  >>
+  \layout { }
+  \midi { }
 }

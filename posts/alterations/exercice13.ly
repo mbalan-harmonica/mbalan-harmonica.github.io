@@ -1,14 +1,28 @@
 \version "2.24.4"
 
-\relative c' {
- c4_"1" des_"-1'" d_"-1" ees_"1o" |
- e_"2" f_"-2''" fis_"-2'" g_"-2" |
- aes_"-3'''" a_"-3''" bes_"-3'" b_"-3" |
- c_"4" des_"-4'" d_"-4" ees_"4o" |
- e_"5" f_"-5" fis_"5o" g_"6" |
- aes_"-6'" a_"-6" 
- bes_"6o" b_"-7" | c_"7" cis_"-7o" 
- d_"-8" ees_"8'" | e_"8" f_"-9" 
- fis_"9'" g_"9" | aes_"-9o"  a_"-10" 
- bes_"10''" b_"10'" | c_"10" cis_"-10o" r2 |
+melody = \relative c' {
+ c4 des d ees |
+ e f fis g |
+ aes a bes b |
+ c des d ees |
+ e f fis g |
+ aes a 
+ bes b | c cis 
+ d ees | e f 
+ fis g | aes  a 
+ bes b | c cis r2 |
+}
+
+verse = {
+"1" "-1'" "-1" "1o" "2" "-2''" "-2'" "-2" "-3'''" "-3''" "-3'" "-3" "4" "-4'" "-4" "4o" "5" "-5" "5o" "6" "-6'" "-6" 
+"6o" "-7" "7" "-7o" "-8" "8'" "8" "-9" "9'" "9" "-9o" "-10" "10''" "10'" "10" "-10o"
+}
+
+\score {
+  <<
+    \new Staff { \melody }
+    \addlyrics { \verse }
+  >>
+  \layout { }
+  \midi { }
 }

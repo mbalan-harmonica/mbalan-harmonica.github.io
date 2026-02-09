@@ -1,15 +1,29 @@
 \version "2.24.4"
 
-\relative c' {
-  b4_"1'"
- c4_"1" des_"-1'" d_"-1" ees_"2'" |
- e_"2" f_"-2''" fis_"-2'" g_"-2" |
- aes_"-3'''" a_"-3''" bes_"-3'" b_"-3" |
- c_"4" des_"-4'" d_"-4" ees_"5'" |
- e_"5" f_"-5" fis_"6'" g_"6" |
- aes_"-6'" a_"-6" 
- bes_"-7'" b_"-7" | c_"7" cis_"-8'" 
- d_"-8" ees_"8'" | e_"8" f_"-9" 
- fis_"9'" g_"9" | aes_"-10'"  a_"-10" 
- bes_"10''" b_"10'" | c_"10" r2 |
+melody = \relative c' {
+  b4
+ c4 des d ees |
+ e f fis g |
+ aes a bes b |
+ c des d ees |
+ e f fis g |
+ aes a 
+ bes b | c cis 
+ d ees | e f 
+ fis g | aes  a 
+ bes b | c r2 |
+}
+
+verse = \lyricmode {
+"1'" "1" "-1'" "-1" "2'" "2" "-2''" "-2'" "-2" "-3'''" "-3''" "-3'" "-3" "4" "-4'" "-4" "5'" "5" "-5" "6'" "6"
+"-6'" "-6" "-7'" "-7" "7" "-8'" "-8" "8'" "8" "-9" "9'" "9" "-10'" "-10" "10''" "10'" "10"
+}
+
+\score {
+  <<
+    \new Staff { \melody }
+    \addlyrics { \verse }
+  >>
+  \layout { }
+  \midi { }
 }

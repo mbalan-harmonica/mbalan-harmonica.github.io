@@ -1,8 +1,21 @@
 \version "2.24.4"
 
 
-\relative c''' {
-e2_"-8" (ees_"-8'") |
-g_"9" (fis_"9'") |
-c'_"10" (bes_"10''")
+melody = \relative c''' {
+e2 ees |
+g fis |
+c' bes
+}
+
+verse = \lyricmode {
+"8" "8'" "9" "9'" "10" "10''"
+}
+
+\score {
+  <<
+    \new Staff { \melody }
+    \addlyrics { \verse }
+  >>
+  \layout { }
+  \midi { }
 }

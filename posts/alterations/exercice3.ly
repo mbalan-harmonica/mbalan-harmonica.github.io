@@ -1,5 +1,21 @@
 \version "2.24.4"
 
-\relative c'' {
- d2_"-4" (des_"-4'") | r1 | a'2_"-6" (aes_"-6'") | 
+melody = \relative c'' {
+ d2 des | r1 | a'2 aes | 
 }
+
+verse = \lyricmode {
+ "-4" "-4'" "-6" "-6'" 
+}
+
+\score {
+  <<
+    \new Staff { \melody }
+    \addlyrics { \verse }
+  >>
+  \layout { }
+  \midi { }
+}
+
+
+
