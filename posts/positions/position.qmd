@@ -6,6 +6,10 @@ format:
     toc: true
 categories: [diatonique, théorie]
 image: cercle_quintes.png
+filters:
+  - quizdown
+resources:
+  - audio
 ---
 
 Les harmonicas diatoniques sont associés à une gamme particulière :
@@ -23,6 +27,52 @@ ou accord).
 
 Pour bien comprendre tous les enjeux, il est nécessaire d'approfondir un peu la théorie (cercle des quintes, gammes et modes…).
 
+
+# Cercle des quintes
+
+La notion de position, si on simplifie au maximum, relie la tonalité de l'harmonica et la tonalité du morceau. Pour comprendre, observons
+le cercles quintes :
+
+![](cercle_quintes.png){.lightbox}
+
+Les 12 notes sont affichées le long d'un cercle : on passe d'une note à la suivante dans le sens horaire en lui ajoutant 7 demi-tons,
+ce qui correspond à une quinte. Ce cercle est important en solfège pour connaitre le nombre de dièses dans une gamme majeure par exemple.
+
+La première position consiste à jouer dans une tonalité donnée avec un harmonica de la même tonalité.
+
+La seconde position consiste à jouer dans une tonalité donnée avec un harmonica de la tonalité précédente dans le cercle des quintes. Par
+exemple, pour jouer en La en seconde position, on utilisera un harmonica en Ré (D). À l'inverse, si je joue avec un harmonica en si bémol
+(Bb) en seconde position, alors je joue un morceau en Fa (F), car Fa suit Bb dans le cercle des quintes.
+
+Chaque position suit le même principe : si on a un harmonica dans une tonalité $x$ et que l'on joue en position $n$, alors le morceau lui
+est dans la tonalité obtenue en se déplaçant dans le sens horaire de $n$ notes à partir de $x$ sur le cercle des quintes.
+
+```quizdown
+### Je joue en seconde position avec un harmonica en La (A), quelle est la tonalité du morceau ?
+> Compter jusqu'à 2 dans le sens horaire sur le cercle des quintes en partant de La (attention on commence à compter à 1).
+
+- [ ] Ré
+- [x] Mi
+- [ ] Do
+- [ ] Si
+
+### Je joue un morceau en La avec un harmonica en Do. À quelle position cela correspond-il ?
+> Partir du Do sur le cercle des quintes, et compter dans le sens horaire chaque note jusqu'à trouver le La.
+
+- [ ] Première position
+- [ ] Seconde position
+- [ ] Troisième position
+- [x] Quatrième position 
+
+### Je sais jouer un morceau en douzième position. Le guitariste me dit qu'il faut jouer en Mi. Quel harmonica dois-je utiliser ?
+> Compter jusqu'à 12 dans le sens anti-horaire sur le cercle des quintes en partant de Mi.
+
+- [x] Si
+- [ ] La
+- [ ] Mi
+- [ ] Ré
+
+```
 
 
 # Notes de résolution, de tension et de passage
@@ -54,13 +104,32 @@ La tablature ci-dessous permet de jouer Amazing Grace en première position. Ess
 marqués en rouge dans la tablature.
 
 ![](amazing_first.png){.lightbox}
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/amazing-grace-1.wav" >}}
+::::
+
 :::
 
-Une autre possiblité pour mettre en valeurs des notes est le *tongue slap* ou l'auto-accompagnement. 
+Une autre possiblité pour mettre en valeurs des notes est le *tongue slap* ou l'auto-accompagnement. Elles sont bien adaptées au jeu en
+première position.
+
+:::{.callout-note}
+## Douce nuit en première position
+
+![](silent_night-1.png){.lightbox}
+
+Voici une interprétation de douce nuit où on met en valeur le rythme de la valse en slappant les temps 2 et 3 de chaque mesure.
+Ce morceau est joué sur un harmonica octave (Concerto Steel de Seydel).
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/douce-nuit-1.wav" >}}
+::::
+:::
 
 # La seconde position
 
-On souhaite toujours jouer un morceau en Sol majeur. Cette fois, au lieu d'utiliser un harmonica en G, on va jouer avec un harmonica en C.
+Imaginons jouer un morceau en Sol majeur. Cette fois, au lieu d'utiliser un harmonica en G, on va jouer avec un harmonica en C.
 Il s'agit toujours de mettre en valeur les notes sol, si et ré. Cette fois, on les trouve en 2, 3 et 4 aspiré, qui sont des notes altérables.
 L'harmoniciste jouera cette fois dans le registre grave de l'harmonica. Dans ce registre, il manque 2 notes (le la et le fa dièse), ce qui
 peut demander des altérations justes. Dans le registre médium, le fa dièse pose plus de difficulté, on l'obtient par un overblow.
@@ -71,6 +140,11 @@ peut demander des altérations justes. Dans le registre médium, le fa dièse po
 La tablature ci-dessous permet de jouer Amazing Grace en seconde position. Essayez d'infléchir les 1,2,3 et 4 aspirés.
 
 ![](amazing_second.png){.lightbox}
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/amazing-grace-2.wav" >}}
+::::
+
 :::
 
 On peut éviter l'overblow 5 en changeant d'octave, comme dans l'exercice suivant.
@@ -78,7 +152,12 @@ On peut éviter l'overblow 5 en changeant d'octave, comme dans l'exercice suivan
 :::{.callout-note}
 ## Douce nuit en seconde position
 
-![](silent_night.png){.lightbox}
+![](silent_night-2.png){.lightbox}
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/douce-nuit-2.wav" >}}
+::::
+
 :::
 
 La seconde position est particulièrement utilisée en Blues. La gamme de Sol blues peut être jouée comme dans l'exercice ci-dessous.
