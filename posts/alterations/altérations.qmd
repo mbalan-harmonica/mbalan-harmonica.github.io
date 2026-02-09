@@ -381,4 +381,9 @@ rangée du haut pour obtenir la note manquante pour jouer le morceau. Le morceau
 en Ré majeur (Low D).
 
 ![](greensleaves_tremolo.png){.lightbox}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/greensleaves_tremolo.wav" >}}
+::::
+
 :::
