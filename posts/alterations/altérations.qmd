@@ -2,6 +2,9 @@
 title: Altérations
 categories: [technique]
 date: 2026-02-07
+resources:
+  - audio
+
 format:
   html:
     toc: true
@@ -78,6 +81,12 @@ On reprend les exercices précédents mais avec l'harmonica en bouche cette fois
 
 
 ![](../../_partitions/exercice_3.png){.lightbox height=100}
+
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo3.wav" >}}
+::::
+
 :::
 
 
@@ -101,6 +110,11 @@ Les exercices suivants vont permettre de travailler cette technique.
 1. Recommencez avec le canal 6.
 
 ![](../../_partitions/exercice_4.png){.lightbox height=100}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo4.wav" >}}
+::::
+
 :::
 
 L'inflexion consistant à partir de la note altérée, il est important de trouver l'altération directement sans passer par la note naturelle.
@@ -112,6 +126,11 @@ L'inflexion consistant à partir de la note altérée, il est important de trouv
 1. Infléchir le 6 aspiré.
 
 ![](../../_partitions/exercice_5.png){.lightbox height=100}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo5.wav" >}}
+::::
+
 :::
 
 
@@ -122,6 +141,10 @@ Cet effet d'inflexion est particulièrement en Blues. L'exercice suivant est un 
 Jouez la partition ci-dessous : plus les inflexions seront prononcées et plus le rendu sonnera bluesy.
 
 ![](../../_partitions/exercice_6.png){.lightbox height=100}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo6.wav" >}}
+::::
 :::
 
 
@@ -193,6 +216,11 @@ En menant la langue dans la zone K, il est possible d'altérer en aspirant :
 soit 4 nouvelles notes ! Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
 ![](../../_partitions/exercice_8.png){.lightbox height=100}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo8.wav" >}}
+::::
+
 :::
   
 
@@ -208,6 +236,11 @@ En reculant la langue suffisamment loin vers la gorge, il est possible d'altére
 soit 3 nouvelles notes ! Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
 ![](../../_partitions/exercice_9.png){.lightbox height=100}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo9.wav" >}}
+::::
+
 :::
  
 :::{.callout-note}
@@ -221,6 +254,11 @@ En avançant la langue vers les dents, il est possible d'altérer :
 Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
 ![](../../_partitions/exercice_10.png){.lightbox height=150}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo10.wav" >}}
+::::
+
 :::
  
 :::{.callout-note}
@@ -235,6 +273,11 @@ En avançant la langue vers les dents encore plus en avant, il est possible d'al
 Essayez d'obtenir ces notes à partir des notes naturelles, puis directement.
 
 ![](../../_partitions/exercice_11.png){.lightbox height=150}
+
+::::{.content-visible when-format="html"}
+{{< audio file="audio/exo11.wav" >}}
+::::
+
 :::
  
 
