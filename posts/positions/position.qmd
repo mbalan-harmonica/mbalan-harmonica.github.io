@@ -186,5 +186,5 @@ En quatrième position, on utilisera un harmonica en C pour jouer en la mineur. 
 
 ::: {.callout-note}
 ## Bella Ciao en quatrième position
-
+![](bella_-ciao-4.png)
 :::
