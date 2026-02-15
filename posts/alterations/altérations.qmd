@@ -15,7 +15,7 @@ Les altérations permettent de changer la hauteur d’une note, ce qui permet d�
 immédiatement l’altération pour entendre la note prévue. Sauf mention du contraire, les explications données ici concernent l’harmonica diatonique (blues) 10 trous accordage Richter.
 
 
-：：：{.callout-note}
+:::{.callout-note}
 ## L'homme à l'harmonica
 
 Pour jouer dans la tonalité du film, utilisez un harmonica en sol (G) . Il est tout à fait possible d'utiliser un harmonica en do ; les notes seront différentes mais l'effet sera le même.
