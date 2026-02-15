@@ -24,6 +24,32 @@ en Fa majeur (jeu en seconde position) ou en Ré (jeu en douzième position) par
 l'harmonica à la tonalité du morceau. Chaque position a ses difficultés, et ses avantages ([inflexions](../alterations/altérations.qmd#utilisation)
 ou accord).
 
+Ci-dessous, je joue un même morceau en première puis en seconde position.
+
+:::{.callout-note}
+## Douce nuit en première position
+
+![](silent_night-1.png){.lightbox}
+
+Voici une interprétation de douce nuit où on met en valeur le rythme de la valse en slappant les temps 2 et 3 de chaque mesure.
+Ce morceau est joué sur un harmonica octave (Concerto Steel de Seydel).
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/douce-nuit-1.wav" >}}
+::::
+:::
+
+:::{.callout-note}
+## Douce nuit en seconde position
+
+![](silent_night-2.png){.lightbox}
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/douce-nuit-2.wav" >}}
+::::
+
+:::
+
 
 Pour bien comprendre tous les enjeux, il est nécessaire d'approfondir un peu la théorie (cercle des quintes, gammes et modes…).
 
@@ -83,12 +109,13 @@ cette tension appelle une résolution. D'autres notes ne servent elles qu'à pas
 notes à mettre en valeurs, et d'autres qui doivent jouer normalement.
 
 Dans un morceau en Sol majeur, les notes à mettre en valeurs sont *a priori* le sol, le si et le ré (ces notes forment l'accord de sol
-majeur).
-
+majeur. On retrouve ces notes aussi bien sur un harmonica en sol, un harmonica en do ou un harmonica en ré. Suivant l'harmonica choisi,
+les phrasés vont changer, rendant certains effets plus faciles, mais il peut aussi y avoir des notes plus difficiles à obtenir (altération/overnotes),
+le tout change l'ambiance du morceau.
 
 # La première position
 
-Jouer en première position consiste à utiliser un harmonica de la même tonalité que le morceau. J'explique plus loin comment reconnaître
+Jouer en première position consiste à utiliser un harmonica de la même tonalité que le morceau. J'explique dans [tonalité](tonalité.qmd) comment reconnaître
 la tonalité d'un morceau. On suppose ici que l'on veut jouer un morceau en Sol majeur. Pour jouer ce morceau en première position, il faut
 utiliser un harmonica en Sol (G).
 
@@ -114,18 +141,6 @@ marqués en rouge dans la tablature.
 Une autre possiblité pour mettre en valeurs des notes est le *tongue slap* ou l'auto-accompagnement. Elles sont bien adaptées au jeu en
 première position.
 
-:::{.callout-note}
-## Douce nuit en première position
-
-![](silent_night-1.png){.lightbox}
-
-Voici une interprétation de douce nuit où on met en valeur le rythme de la valse en slappant les temps 2 et 3 de chaque mesure.
-Ce morceau est joué sur un harmonica octave (Concerto Steel de Seydel).
-
-::::{.content-visible when-format="html"}
-{{< audio "audio/douce-nuit-1.wav" >}}
-::::
-:::
 
 # La seconde position
 
@@ -147,18 +162,8 @@ La tablature ci-dessous permet de jouer Amazing Grace en seconde position. Essay
 
 :::
 
-On peut éviter l'overblow 5 en changeant d'octave, comme dans l'exercice suivant.
+On peut éviter l'overblow 5 en changeant d'octave.
 
-:::{.callout-note}
-## Douce nuit en seconde position
-
-![](silent_night-2.png){.lightbox}
-
-::::{.content-visible when-format="html"}
-{{< audio "audio/douce-nuit-2.wav" >}}
-::::
-
-:::
 
 La seconde position est particulièrement utilisée en Blues. La gamme de Sol blues peut être jouée comme dans l'exercice ci-dessous.
 
@@ -176,8 +181,10 @@ infléchir en jouant -4, -5 et -6. Par contre, si le morceau est en la mineur na
 donc remplacer -3 par -3', -7 par 6o.
 
 :::{.callout-note}
-## Bella Ciao en troisième position
+## Stairway to Heaven en troisième position
 
+La partition ci - dessous correspond à une version de Stairway to Heaven dont les rythmes ont été très simplifiés pour se concentrer sur les inflexions.
+![](stairway3.png)
 :::
 
 ## La quatrième position
