@@ -30,11 +30,11 @@ melody = \relative c'' {
 verse = \lyricmode {
   % Lyrics follow here.
   \markup \with-color "red" \underline "-4" "5" \markup \with-color "red" \underline "-4" | \markup \with-color "red" \underline "-3" | \markup \with-color "red" \underline "-4" "5" \markup \with-color "red" \underline "-4" | \markup \with-color "red" \underline "-3" |
-  "-3''" "-3''" | "-2'" | "2" "2" | \markup \with-color "red" \underline "-1" |
+  "3" "3" | "-2'" | "-2" "-2" | \markup \with-color "red" \underline "-1" |
   "2" "2" | \markup \with-color "red" \underline "-2" "-2'" "2" | \markup \with-color "red" \underline "-4" "5" \markup \with-color "red" \underline "-4" | \markup \with-color "red" \underline "-3" |
   "2" "2" | \markup \with-color "red" \underline "-2" "-2'" "2" | \markup \with-color "red" \underline "-4" "5" \markup \with-color "red" \underline "-4" | \markup \with-color "red" \underline "-3" |
-  "-3''" "-3''" | "4" "-3''" "-2'" | \markup \with-color "red" \underline "-2" | \markup \with-color "red" \underline "-3" |
-  "6" "-4" \markup \with-color "red" \underline "-3" | \markup \with-color "red" \underline "-4" "4" "-3''" | \markup \with-color "red" \underline "-2" 
+  "3" "3" | "4" "3" "-2'" | \markup \with-color "red" \underline "-2" | \markup \with-color "red" \underline "-3" |
+  "6" "-4" \markup \with-color "red" \underline "-3" | \markup \with-color "red" \underline "-4" "4" "3" | \markup \with-color "red" \underline "-2" 
   
   
 }
@@ -42,9 +42,12 @@ verse = \lyricmode {
 \score {
   <<
     \new ChordNames \chordNames
-    \new Staff {\transpose c g \melody }
+    \new Staff \with {instrumentName = \markup \center-column \string-lines 
+                      "Paddy 
+                      Richter C"} 
+    {\transpose c g \melody }
     \addlyrics { \verse }
   >>
   \layout { }
-  \midi { }
+  %\midi { }
 }

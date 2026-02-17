@@ -43,10 +43,13 @@ Ce morceau est joué sur un harmonica octave (Concerto Steel de Seydel).
 :::{.callout-note}
 ## Douce nuit en seconde position
 
+Cette fois, le morceau est joué en sol avec un harmonica en do, accordé en
+Paddy Richter (le canal 3 soufflé n'est plus un sol mais un la).
+
 ![](silent_night-2.png){.lightbox}
 
 ::::{.content-visible when-format="html"}
-{{< audio "audio/douce-nuit-2.wav" >}}
+{{< audio "audio/silent_night_tongue_block.wav" >}}
 ::::
 
 :::
