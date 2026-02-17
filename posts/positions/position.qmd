@@ -4,6 +4,7 @@ date: 2026-02-08
 format:
   html:
     toc: true
+  pdf: default
 categories: [diatonique, théorie]
 image: cercle_quintes.png
 filters:
@@ -170,7 +171,12 @@ La seconde position est particulièrement utilisée en Blues. La gamme de Sol bl
 :::{.callout-note}
 ## Gamme blues en seconde position
 
-![](blues_scale.png){.lightbox}
+![](blues_scale.png){.lightbox height=100}
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/gamme_blues.wav" >}}
+::::
+
 :::
 
 ## La troisième position
@@ -184,8 +190,27 @@ donc remplacer -3 par -3', -7 par 6o.
 ## Stairway to Heaven en troisième position
 
 La partition ci - dessous correspond à une version de Stairway to Heaven dont les rythmes ont été très simplifiés pour se concentrer sur les inflexions.
-![](stairway3.png)
+![](stairway3.png){.lightbox}
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/stairway-to-heaven.wav" >}}
+::::
+
 :::
+
+
+:::{.callout-note}
+## House of the Rising Sun
+
+![](rising_sun.png){.lightbox}
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/house_of_the_rising_sun.wav" >}}
+::::
+
+:::
+
+
 
 ## La quatrième position
 
@@ -193,5 +218,11 @@ En quatrième position, on utilisera un harmonica en C pour jouer en la mineur. 
 
 ::: {.callout-note}
 ## Bella Ciao en quatrième position
-![](bella_-ciao-4.png)
+![](bella_ciao.png){.lightbox}
+
+
+::::{.content-visible when-format="html"}
+{{< audio "audio/bella-ciao.wav" >}}
+::::
+
 :::
